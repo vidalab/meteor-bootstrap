@@ -1,6 +1,6 @@
 Package.describe({
   summary: "Front-end framework from Twitter",
-  version: "1.0.3",
+  version: "1.0.4",
   git: "https://github.com/vidalab/meteor-bootstrap.git"
 });
 
